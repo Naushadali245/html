@@ -1,0 +1,23 @@
+body
+{
+ text-align:center;
+ width:100%;
+ margin:0 auto;
+ padding:0px;
+ font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+ background: linear-gradient(#a44f4c, rgb(211, 232, 211));
+ text-decoration-line: none
+}
+#header_wrapper
+{
+ width:100%;
+ min-width:980px;
+ background-color:#a44c82;
+}
+#header
+{
+ width:980px;
+ margin:0px auto;
+ padding:0px;
+ height:85px;
+}
